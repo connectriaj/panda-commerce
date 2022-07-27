@@ -1,0 +1,25 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* common css styles */
+body {
+  background-color: #e5e5e5;
+}
+/* .pink-button {
+  background: linear-gradient(180deg, #ff589b 0%, #ff136f 100%);
+} */
+/* top banner styles */
+.header-color {
+  background-color: #e5e5e5;
+}
+.top-banner {
+  background-color: #feeae9;
+}
+.subscribe-container {
+  background-color: #fff2f1;
+}
